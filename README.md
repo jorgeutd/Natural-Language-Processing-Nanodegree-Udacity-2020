@@ -12,4 +12,4 @@ For all the tutoraials and projects I used the provided and preconfigured worksp
 I completed this program in Aug 2020.
 
 
-[Link to view my certificte of completion](https://graduation.udacity.com/confirm/QQZG3DSF)
+[Link to view my certificate of completion](https://graduation.udacity.com/confirm/QQZG3DSF)
